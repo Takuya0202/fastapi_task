@@ -20,4 +20,4 @@ docker compose exec back bash
 python init_database.py
 ```
 実行後 http://localhost:8000/docs にアクセス<br>
-こちらでapiの動きを確認できます。postmanみたいなものです。以上で終わります
+こちらでapiの動きを確認できます。
